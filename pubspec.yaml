@@ -14,12 +14,12 @@ dependencies:
   # flutter_star_prnt: ^2.3.6
   enum_to_string: ^2.0.1
 
-  network_info_plus: ^3.0.2
+  network_info_plus: ^4.0.2
   ping_discover_network_forked: ^0.0.1
   rxdart: ^0.27.7
   gbk_codec: ^0.4.0
   hex: ^0.2.0
-  dart_ping: ^8.0.1
+  dart_ping: ^9.0.1
 
 dev_dependencies:
   flutter_test:
